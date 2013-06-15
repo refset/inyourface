@@ -1,0 +1,28 @@
+{
+  "name": "inyourface",
+  "version": "0.0.0",
+  "description": "Alarm timer thing",
+  "main": "index.js",
+  "dependencies": {
+    "optimist": "~0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jez0990/inyourface.git"
+  },
+  "keywords": [
+    "alarm",
+    "timer",
+    "alert"
+  ],
+  "author": "jez0990",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jez0990/inyourface/issues"
+  }
+}
