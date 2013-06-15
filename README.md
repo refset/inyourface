@@ -2,5 +2,5 @@ A very simple alarm timer thing that is ideal for keeping track of time when usi
 
 #Usage
 ``` bash
-inyourface 5 "Reminder!!" //display alert with given message 5 minutes from now.
+inyourface 5 "Remember the milk." //display alert with given message 5 minutes from now.
 ```
