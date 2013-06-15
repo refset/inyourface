@@ -1,6 +1,6 @@
 {
   "name": "inyourface",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Alarm timer thing",
   "main": "index.js",
   "dependencies": {
@@ -24,5 +24,8 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/jez0990/inyourface/issues"
+  },
+  "bin": {
+    "inyourface": "index.js"
   }
 }
