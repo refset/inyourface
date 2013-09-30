@@ -1,6 +1,13 @@
-A very simple alarm timer thing that is ideal for keeping track of time when using a minimal window manager without notifications or widgets.
+A very simple message timer that displays messages (given as a parameter or from a message file) at a given interval. Useful for reminding you to do things X minutes from now or every X minutes.
 
 #Usage
-``` bash
-inyourface 5 "Remember the milk." //display alert with given message 5 minutes from now.
 ```
+npm install -g inyourface
+```
+```
+inyourface -t 5 -e ./text.js
+```
+
+To see more usage information, omit the `-t` (pass no parameters)
+
+Inspired by this thread: [https://news.ycombinator.com/item?id=6468521](https://news.ycombinator.com/item?id=6468521)
