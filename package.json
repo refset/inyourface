@@ -1,6 +1,6 @@
 {
   "name": "inyourface",
-  "version": "0.0.34444",
+  "version": "0.0.4",
   "description": "Alarm timer thing",
   "main": "index.js",
   "dependencies": {
